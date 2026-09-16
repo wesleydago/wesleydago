@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Wesley Dagoberto
+#  Olá, eu sou Wesley Dagoberto
 
 **Estudante de Análise de Dados e Machine Learning**.  
 Transformo dados em decisões, unindo **estatística, programação em Python e modelagem preditiva** para resolver problemas reais de negócio.
